@@ -12,7 +12,7 @@ At the top, key performance indicators (KPIs) give an instant snapshot of the da
   Date Range: From 1942 to 2021
 
    Locations: 604 unique countries or regions
-![image alt](https://github.com/irfanulkabirhira/Amazon-Sales-yearly-Product-s-Dashboard-Creation/blob/10c6d2726d9aabc312517472a352e8270a994a53/Amazon%20Sales%20DashBoarad%20Creation.png)
+![image alt](https://github.com/irfanulkabirhira/Netflix-Movies-and-TV-Shows-Power-BI-Dashboard/blob/4daaad3a68ed03e7df00fc1c49bb14938b3109c9/Netflix%20DashBoard%20.png)
 
 The dashboard features interactive visuals including:
 
