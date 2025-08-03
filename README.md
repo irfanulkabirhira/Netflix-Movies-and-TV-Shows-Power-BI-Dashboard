@@ -12,7 +12,7 @@ At the top, key performance indicators (KPIs) give an instant snapshot of the da
   Date Range: From 1942 to 2021
 
    Locations: 604 unique countries or regions
-![image alt](https://github.com/irfanulkabirhira/Netflix-Movies-and-TV-Shows-Power-BI-Dashboard/blob/4daaad3a68ed03e7df00fc1c49bb14938b3109c9/Netflix%20DashBoard%20.png)
+![image alt](https://github.com/irfanulkabirhira/Netflix-Movies-and-TV-Shows-Power-BI-Dashboard/blob/8471ff049c0903a5bf9e193057ec20de6e5188b3/netflix%20deshboard.png)
 
 The dashboard features interactive visuals including:
 
